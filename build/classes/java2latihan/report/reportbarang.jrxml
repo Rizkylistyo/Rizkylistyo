@@ -46,14 +46,14 @@ FROM
 				<textElement>
 					<font fontName="Trebuchet MS" size="22" isBold="true"/>
 				</textElement>
-				<text><![CDATA[PT.Fandy Jaya Abadi]]></text>
+				<text><![CDATA[PT.Maju Mundur Jaya]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="77" y="34" width="261" height="24" uuid="87b8330e-1bff-43a4-a333-c7bdcf6042ea"/>
 				<textElement>
 					<font fontName="Trebuchet MS" size="13" isBold="true"/>
 				</textElement>
-				<text><![CDATA[Jl.Raya Rajeg Km.05 Rajeg-Tangerang]]></text>
+				<text><![CDATA[Jl.Raya Sarkem Km.05 Sarkem-Tangerang]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="77" y="51" width="130" height="24" uuid="0b5287ec-6730-4474-a286-b03d25cc4afa"/>
@@ -215,7 +215,7 @@ FROM
 				<textElement>
 					<font fontName="Serif" isBold="true" isItalic="true"/>
 				</textElement>
-				<text><![CDATA[Fandi_Januardi]]></text>
+				<text><![CDATA[Rizky_Listyo]]></text>
 			</staticText>
 		</band>
 	</pageFooter>
